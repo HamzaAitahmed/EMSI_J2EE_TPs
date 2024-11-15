@@ -8,7 +8,7 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.project</groupId>
+    <groupId>ma.emsi</groupId>
     <artifactId>Gateway-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Gateway-service</name>
@@ -61,6 +61,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
     <build>
         <plugins>
             <plugin>
